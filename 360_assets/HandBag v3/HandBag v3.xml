@@ -1,0 +1,3049 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <settings>
+    <preloader image="images/Frame.0037.png?t=1715863820" />
+    <userInterface showProgressPulse="false" showZoomButtons="true" showToolTips="true" showHotspotsButton="true" showFullScreenButton="false" showTogglePlayButton="true" showArrows="true" toolbarAlign="center" toolbarBackColor="transparent" toolbarHoverColor="#808285" toolbarForeColor="#A7A9AE" toolbarBackAlpha="0" toolbarAlpha="1" showProgressNumbers="true" showFullScreenToolbar="false" fullScreenBackColor="#FFFFFF" toolbarPosition="0" customCursorClass="default_cursor" viewerHint="" toolbarAutohide="false" showToolbarOnLoadStart="false" showProgressBar="false" skin="basic" />
+    <control dragSpeed="0.13" doubleClickZooms="true" disableMouseControl="false" showHighresOnFullScreen="true" mouseHoverDrag="false" hideHotspotsOnLoad="false" hideHotspotsOnZoom="true" rowSensitivity="15" dragSensitivity="10" inBrowserFullScreen="false" doubleClickFullscreen="false" zoomSteps="1" zoomSpeed="300" singleClickZooms="false" pauseOnPreload="false" resumePreloadOnHover="false" mouseWheelDrag="false" mouseWheelDragZoomOnly="false" allowRotateInputInZoom="false" allowPanX="true" allowPanY="true" dragAcceleration="1" centerZoom="false" maxZoom="100" />
+    <rotation firstImage="36" rotate="false" rotatePeriod="7" bounce="false" rotateDirection="-1" forceDirection="false" inertiaRelToDragSpeed="true" inertiaTimeToStop="700" inertiaMaxInterval="120" useInertia="true" flipHorizontalInput="false" flipVerticalInput="false" bounceRows="true" rowsOnSingleIndex="false" flipAxis="false" spinOnPageScroll="false" pageScrollFollow="false" pageScrollDelay="300" pageScrollPeriod="3" autoPlayOnDragRelease="false" />
+  </settings>
+  <hotspots>
+    <hotspot id="Lit/Unlint" renderMode="0" indicatorImage="Lit icon.png">
+      <spotinfo clickAction="6" clickData="Unlit" />
+    </hotspot>
+    <hotspot id="Normal" renderMode="0" indicatorImage="Normal.png">
+      <spotinfo clickAction="6" clickData="Normal" />
+    </hotspot>
+    <hotspot id="Wireframe" renderMode="0" indicatorImage="wireframe icon.png">
+      <spotinfo clickAction="6" clickData="Wireframe" />
+    </hotspot>
+    <hotspot id="UV" renderMode="1" indicatorImage="uv icon.png" margin="0,0,0,0" align="bottom,left">
+      <spotinfo src="images/spots/uv img.png?t=1715863820" imgWidth="256" imgNoScale="true" />
+    </hotspot>
+  </hotspots>
+  <images rows="12" highresWidth="1024" highresHeight="1024">
+    <image src="images/Frame.0001.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0001.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0002.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0002.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0003.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0003.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0004.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0004.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0005.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0005.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0006.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0006.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0007.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0007.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0008.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0008.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0009.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0009.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0010.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0010.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0011.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0011.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0012.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0012.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0013.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0013.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0014.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0014.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0015.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0015.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0016.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0016.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0017.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0017.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0018.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0018.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0019.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0019.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0020.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0020.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0021.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0021.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0022.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0022.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0023.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0023.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0024.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0024.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0025.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0025.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0026.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0026.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0027.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0027.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0028.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0028.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0029.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0029.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0030.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0030.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0031.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0031.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0032.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0032.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0033.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0033.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0034.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0034.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0035.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0035.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0036.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0036.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0037.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0037.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0038.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0038.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0039.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0039.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0040.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0040.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0041.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0041.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0042.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0042.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0043.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0043.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0044.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0044.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0045.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0045.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0046.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0046.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0047.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0047.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0048.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0048.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0049.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0049.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0050.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0050.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0051.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0051.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0052.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0052.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0053.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0053.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0054.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0054.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0055.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0055.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0056.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0056.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0057.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0057.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0058.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0058.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0059.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0059.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0060.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0060.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0061.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0061.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0062.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0062.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0063.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0063.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0064.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0064.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0065.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0065.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0066.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0066.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0067.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0067.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0068.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0068.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0069.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0069.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0070.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0070.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0071.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0071.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0072.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0072.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0073.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0073.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0074.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0074.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0075.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0075.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0076.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0076.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0077.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0077.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0078.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0078.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0079.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0079.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0080.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0080.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0081.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0081.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0082.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0082.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0083.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0083.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0084.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0084.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0085.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0085.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0086.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0086.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0087.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0087.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0088.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0088.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0089.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0089.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0090.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0090.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0091.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0091.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0092.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0092.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0093.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0093.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0094.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0094.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0095.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0095.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0096.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0096.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0097.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0097.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0098.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0098.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0099.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0099.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0100.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0100.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0101.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0101.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0102.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0102.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0103.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0103.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0104.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0104.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0105.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0105.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0106.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0106.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0107.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0107.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0108.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0108.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0109.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0109.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0110.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0110.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0111.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0111.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0112.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0112.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0113.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0113.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0114.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0114.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0115.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0115.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0116.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0116.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0117.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0117.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0118.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0118.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0119.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0119.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0120.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0120.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0121.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0121.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0122.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0122.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0123.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0123.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0124.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0124.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0125.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0125.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0126.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0126.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0127.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0127.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0128.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0128.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0129.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0129.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0130.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0130.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0131.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0131.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0132.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0132.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0133.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0133.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0134.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0134.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0135.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0135.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0136.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0136.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0137.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0137.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0138.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0138.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0139.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0139.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0140.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0140.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0141.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0141.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0142.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0142.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0143.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0143.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0144.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0144.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0145.png?t=1715863820" label="Unlit">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0145.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0146.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0146.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0147.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0147.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0148.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0148.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0149.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0149.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0150.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0150.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0151.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0151.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0152.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0152.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0153.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0153.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0154.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0154.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0155.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0155.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0156.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0156.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0157.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0157.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0158.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0158.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0159.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0159.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0160.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0160.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0161.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0161.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0162.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0162.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0163.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0163.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0164.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0164.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0165.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0165.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0166.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0166.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0167.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0167.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0168.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0168.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0169.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0169.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0170.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0170.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0171.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0171.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0172.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0172.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0173.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0173.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0174.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0174.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0175.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0175.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0176.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0176.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0177.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0177.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0178.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0178.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0179.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0179.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0180.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0180.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0181.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0181.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0182.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0182.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0183.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0183.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0184.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0184.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0185.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0185.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0186.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0186.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0187.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0187.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0188.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0188.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0189.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0189.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0190.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0190.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0191.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0191.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0192.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0192.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0193.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0193.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0194.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0194.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0195.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0195.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0196.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0196.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0197.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0197.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0198.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0198.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0199.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0199.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0200.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0200.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0201.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0201.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0202.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0202.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0203.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0203.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0204.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0204.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0205.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0205.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0206.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0206.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0207.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0207.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0208.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0208.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0209.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0209.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0210.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0210.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0211.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0211.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0212.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0212.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0213.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0213.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0214.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0214.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0215.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0215.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0216.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0216.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0217.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0217.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0218.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0218.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0219.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0219.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0220.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0220.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0221.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0221.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0222.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0222.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0223.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0223.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0224.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0224.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0225.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0225.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0226.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0226.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0227.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0227.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0228.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0228.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0229.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0229.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0230.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0230.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0231.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0231.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0232.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0232.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0233.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0233.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0234.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0234.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0235.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0235.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0236.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0236.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0237.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0237.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0238.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0238.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0239.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0239.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0240.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0240.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0241.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0241.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0242.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0242.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0243.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0243.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0244.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0244.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0245.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0245.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0246.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0246.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0247.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0247.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0248.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0248.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0249.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0249.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0250.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0250.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0251.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0251.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0252.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0252.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0253.png?t=1715863820" label="Normal">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0253.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0254.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0254.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0255.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0255.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0256.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0256.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0257.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0257.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0258.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0258.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0259.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0259.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0260.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0260.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0261.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0261.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0262.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0262.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0263.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0263.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0264.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0264.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0265.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0265.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0266.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0266.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0267.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0267.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0268.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0268.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0269.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0269.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0270.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0270.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0271.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0271.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0272.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0272.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0273.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0273.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0274.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0274.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0275.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0275.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0276.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0276.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0277.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0277.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0278.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0278.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0279.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0279.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0280.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0280.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0281.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0281.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0282.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0282.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0283.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0283.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0284.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0284.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0285.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0285.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0286.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0286.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0287.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0287.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0288.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0288.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0289.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0289.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0290.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0290.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0291.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0291.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0292.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0292.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0293.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0293.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0294.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0294.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0295.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0295.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0296.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0296.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0297.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0297.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0298.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0298.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0299.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0299.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0300.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0300.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0301.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0301.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0302.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0302.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0303.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0303.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0304.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0304.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0305.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0305.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0306.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0306.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0307.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0307.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0308.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0308.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0309.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0309.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0310.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0310.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0311.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0311.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0312.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0312.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0313.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0313.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0314.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0314.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0315.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0315.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0316.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0316.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0317.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0317.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0318.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0318.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0319.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0319.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0320.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0320.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0321.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0321.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0322.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0322.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0323.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0323.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0324.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0324.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0325.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0325.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0326.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0326.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0327.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0327.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0328.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0328.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0329.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0329.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0330.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0330.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0331.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0331.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0332.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0332.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0333.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0333.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0334.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0334.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0335.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0335.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0336.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0336.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0337.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0337.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0338.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0338.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0339.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0339.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0340.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0340.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0341.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0341.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0342.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0342.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0343.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0343.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0344.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0344.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0345.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0345.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0346.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0346.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0347.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0347.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0348.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0348.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0349.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0349.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0350.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0350.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0351.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0351.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0352.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0352.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0353.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0353.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0354.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0354.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0355.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0355.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0356.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0356.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0357.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0357.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0358.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0358.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0359.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0359.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0360.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0360.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0361.png?t=1715863820" label="Wireframe">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0361.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0362.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0362.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0363.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0363.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0364.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0364.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0365.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0365.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0366.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0366.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0367.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0367.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0368.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0368.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0369.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0369.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0370.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0370.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0371.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0371.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0372.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0372.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0373.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0373.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0374.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0374.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0375.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0375.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0376.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0376.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0377.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0377.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0378.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0378.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0379.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0379.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0380.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0380.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0381.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0381.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0382.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0382.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0383.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0383.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0384.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0384.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0385.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0385.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0386.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0386.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0387.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0387.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0388.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0388.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0389.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0389.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0390.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0390.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0391.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0391.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0392.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0392.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0393.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0393.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0394.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0394.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0395.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0395.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0396.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0396.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0397.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0397.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0398.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0398.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0399.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0399.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0400.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0400.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0401.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0401.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0402.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0402.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0403.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0403.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0404.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0404.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0405.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0405.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0406.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0406.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0407.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0407.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0408.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0408.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0409.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0409.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0410.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0410.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0411.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0411.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0412.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0412.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0413.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0413.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0414.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0414.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0415.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0415.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0416.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0416.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0417.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0417.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0418.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0418.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0419.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0419.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0420.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0420.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0421.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0421.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0422.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0422.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0423.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0423.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0424.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0424.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0425.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0425.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0426.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0426.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0427.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0427.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0428.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0428.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0429.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0429.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0430.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0430.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0431.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0431.png?t=1715863820" />
+    </image>
+    <image src="images/Frame.0432.png?t=1715863820">
+      <hotspot source="Lit/Unlint" offsetX="70" offsetY="70" />
+      <hotspot source="Normal" offsetX="70" offsetY="189" />
+      <hotspot source="Wireframe" offsetX="70" offsetY="302" />
+      <hotspot source="UV" offsetX="71" offsetY="421" />
+      <highres src="images/highres/Frame.0432.png?t=1715863820" />
+    </image>
+  </images>
+</config>
