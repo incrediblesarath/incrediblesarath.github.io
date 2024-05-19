@@ -6471,10 +6471,10 @@ if (reversed == null) { reversed = false; }
 	this.timeline.addTween(cjs.Tween.get(this.SpeechButton).wait(1));
 
 	// Speech
-	this.Video = new lib.an_Video({'id': 'Video', 'src':'videos/Speech%20White%20BG.mp4', 'autoplay':false, 'controls':false, 'muted':false, 'loop':true, 'poster':'', 'preload':true, 'class':'video'});
+	this.Video = new lib.an_Video({'id': 'Video', 'src':'videos/Speech%20White%20Bg.mp4', 'autoplay':false, 'controls':false, 'muted':false, 'loop':true, 'poster':'', 'preload':true, 'class':'video'});
 
 	this.Video.name = "Video";
-	this.Video.setTransform(640.1,0.1,0.6253,0.8337,0,0,0,400.8,-0.2);
+	this.Video.setTransform(639.95,-0.15,0.6349,0.8465,0,0,0,400.8,-0.2);
 
 	this.timeline.addTween(cjs.Tween.get(this.Video).wait(1));
 
